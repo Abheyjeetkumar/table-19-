@@ -1,0 +1,18 @@
+.wrapper{
+     width: 60%;
+     margin:0 auto;
+     bordar: 5px solid #add;
+}
+
+label{ font size: 24px; 
+}
+
+
+.fast name ,.last name,.email{
+     width : 90px 
+     hight: 25px;
+     padding: 10px;
+     font size: 18px;
+
+
+}
